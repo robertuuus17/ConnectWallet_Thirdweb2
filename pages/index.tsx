@@ -52,7 +52,7 @@ const Home: NextPage = () => {
               rel="noopener noreferrer"
               className={styles.lightPurple}
             >
-              Solana SDK
+              ALO ALO ALO
             </a>
           </b>
           .
